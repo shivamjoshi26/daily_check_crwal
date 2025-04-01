@@ -5,5 +5,4 @@ selenium
 chromedriver-autoinstaller
 selenium
 datetime
-email
-os
+
