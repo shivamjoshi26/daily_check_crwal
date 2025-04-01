@@ -8,7 +8,7 @@ chromedriver-autoinstaller
 selenium
 datetime
 collections
-time
+
 smtplib
 email
 os
