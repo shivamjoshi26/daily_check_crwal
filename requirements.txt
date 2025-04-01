@@ -8,6 +8,6 @@ selenium
 datetime
 collections
 
-smtplib
+
 email
 os
