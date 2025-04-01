@@ -12,20 +12,24 @@ jobs:
     steps:
       - id: repo 
         name: Repo Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated to latest version
 
       - id: python
         name: Python Setup & Packages Installation
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4  # Updated to v4
         with:
           python-version: '3.9'
           cache: 'pip'
-      - run: pip install -r requirements.txt
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install jupyter nbconvert  # Ensure Jupyter & nbconvert are installed
 
       - id: jupyter 
         name: Jupyter Notebook Execution
         run: |
-          pip install jupyter nbconvert  # Ensure Jupyter is installed
           jupyter nbconvert --execute --to notebook --output download-output.ipynb download.ipynb
         shell: bash 
 
