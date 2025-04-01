@@ -1,37 +1,42 @@
-name: Run Jupyter Notebook Daily
+name: Jupyter
 
 on:
+  workflow_dispatch:  # Allows manual execution
   schedule:
-    - cron: "1 0 * * *"  # Runs every day at midnight UTC
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
 
 jobs:
-  run-notebook:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
+      - id: repo 
+        name: Repo Checkout
+        uses: actions/checkout@v2
 
-    - name: Set Up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.9"
+      - id: python
+        name: Python Setup & Packages Installation
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+      - run: pip install -r requirements.txt
 
-    - name: Install Dependencies
-      run: |
-        pip install -r requirements.txt
-        pip install jupyter nbconvert
+      - id: jupyter 
+        name: Jupyter Notebook Execution
+        run: |
+          pip install jupyter nbconvert  # Ensure Jupyter is installed
+          jupyter nbconvert --execute --to notebook --output download-output.ipynb download.ipynb
+        shell: bash 
 
-    - name: Execute Notebook
-      run: |
-        jupyter nbconvert --to notebook --execute my_notebook.ipynb --output output.ipynb
-
-    - name: Commit and Push Output
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add output.ipynb
-        git commit -m "Auto-update notebook output" || echo "No changes to commit"
-        git push
-
+      - id: commit
+        name: Commit files
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git add .
+          git commit -m "GH ACTION Headlines $(date)" || echo "No changes to commit"
+          git push origin main
+        env:
+          REPO_KEY: ${{ secrets.GITHUB_TOKEN }}
+          username: github-actions
