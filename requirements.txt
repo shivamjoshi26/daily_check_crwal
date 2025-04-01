@@ -2,7 +2,6 @@ jupyterlab
 nbclient
 pandas
 selenium
-smtplib
 chromedriver-autoinstaller
 selenium
 datetime
