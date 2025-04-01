@@ -5,8 +5,5 @@ selenium
 chromedriver-autoinstaller
 selenium
 datetime
-collections
-
-
 email
 os
