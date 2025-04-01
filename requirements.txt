@@ -2,7 +2,6 @@ jupyterlab
 nbclient
 pandas
 selenium
-time
 smtplib
 chromedriver-autoinstaller
 selenium
