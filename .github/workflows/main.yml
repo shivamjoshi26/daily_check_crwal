@@ -1,1 +1,37 @@
+name: Run Jupyter Notebook Daily
+
+on:
+  schedule:
+    - cron: "40 14 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  run-notebook:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set Up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.9"
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
+        pip install jupyter nbconvert
+
+    - name: Execute Notebook
+      run: |
+        jupyter nbconvert --to notebook --execute my_notebook.ipynb --output output.ipynb
+
+    - name: Commit and Push Output
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add output.ipynb
+        git commit -m "Auto-update notebook output" || echo "No changes to commit"
+        git push
 
