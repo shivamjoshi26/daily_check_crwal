@@ -15,7 +15,7 @@
 
 
 🔍 "SSE Plc":
-https://www.find-tender.service.gov.uk/Notice/023960-2025?origin=SearchResults&p=1
+
 
 🔍 "SSE SERVICES PLC":
 
@@ -30,7 +30,7 @@ https://www.find-tender.service.gov.uk/Notice/023960-2025?origin=SearchResults&p
 
 
 🔍 "AFFINITY WATER LIMITED":
-https://www.find-tender.service.gov.uk/Notice/023547-2025?origin=SearchResults&p=1
+
 
 🔍 "Dwr Cymru Welsh Water":
 
@@ -45,7 +45,7 @@ https://www.find-tender.service.gov.uk/Notice/023547-2025?origin=SearchResults&p
 
 
 🔍 "UNITED UTILITIES WATER LIMITED":
-
+https://www.find-tender.service.gov.uk/Notice/025972-2025?origin=SearchResults&p=1
 
 🔍 "ANGLIAN WATER SERVICES LIMITED":
 
