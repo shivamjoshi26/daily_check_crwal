@@ -15,10 +15,10 @@
 
 
 🔍 "SSE Plc":
-https://www.find-tender.service.gov.uk/Notice/028581-2025?origin=SearchResults&p=1
+
 
 🔍 "SSE SERVICES PLC":
-https://www.find-tender.service.gov.uk/Notice/028332-2025?origin=SearchResults&p=1
+
 
 🔍 "SEVERN TRENT WATER LIMITED":
 
@@ -42,7 +42,7 @@ https://www.find-tender.service.gov.uk/Notice/028332-2025?origin=SearchResults&p
 
 
 🔍 "GNI (UK) Limited":
-https://www.find-tender.service.gov.uk/Notice/028511-2025?origin=SearchResults&p=1
+
 
 🔍 "UNITED UTILITIES WATER LIMITED":
 https://www.find-tender.service.gov.uk/Notice/028704-2025?origin=SearchResults&p=1
