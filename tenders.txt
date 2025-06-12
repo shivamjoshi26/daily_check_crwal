@@ -15,13 +15,13 @@
 
 
 🔍 "SSE Plc":
-https://www.find-tender.service.gov.uk/Notice/030892-2025?origin=SearchResults&p=1
+
 
 🔍 "SSE SERVICES PLC":
 
 
 🔍 "SEVERN TRENT WATER LIMITED":
-
+https://www.find-tender.service.gov.uk/Notice/031382-2025?origin=SearchResults&p=1
 
 🔍 "NORTHUMBRIAN WATER GROUP LIMITED":
 
@@ -49,4 +49,4 @@ https://www.find-tender.service.gov.uk/Notice/031186-2025?origin=SearchResults&p
 https://www.find-tender.service.gov.uk/Notice/031330-2025?origin=SearchResults&p=1
 
 🔍 "ANGLIAN WATER SERVICES LIMITED":
-
+https://www.find-tender.service.gov.uk/Notice/031601-2025?origin=SearchResults&p=1
