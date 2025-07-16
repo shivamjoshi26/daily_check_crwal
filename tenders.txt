@@ -15,13 +15,13 @@ https://www.find-tender.service.gov.uk/Notice/039702-2025?origin=SearchResults&p
 
 
 🔍 "SSE Plc":
-
+https://www.find-tender.service.gov.uk/Notice/040096-2025?origin=SearchResults&p=1
 
 🔍 "SSE SERVICES PLC":
 
 
 🔍 "SEVERN TRENT WATER LIMITED":
-https://www.find-tender.service.gov.uk/Notice/039697-2025?origin=SearchResults&p=1
+
 
 🔍 "NORTHUMBRIAN WATER GROUP LIMITED":
 
@@ -30,13 +30,13 @@ https://www.find-tender.service.gov.uk/Notice/039697-2025?origin=SearchResults&p
 
 
 🔍 "AFFINITY WATER LIMITED":
-
+https://www.find-tender.service.gov.uk/Notice/039878-2025?origin=SearchResults&p=1
 
 🔍 "Dwr Cymru Welsh Water":
 
 
 🔍 "UK POWER NETWORKS (OPERATIONS) LIMITED":
-
+https://www.find-tender.service.gov.uk/Notice/039959-2025?origin=SearchResults&p=1
 
 🔍 "CENTRICA PLC":
 
@@ -49,3 +49,4 @@ https://www.find-tender.service.gov.uk/Notice/039697-2025?origin=SearchResults&p
 
 🔍 "ANGLIAN WATER SERVICES LIMITED":
 https://www.find-tender.service.gov.uk/Notice/039451-2025?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/039901-2025?origin=SearchResults&p=1
