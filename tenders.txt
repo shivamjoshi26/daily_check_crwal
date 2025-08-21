@@ -15,9 +15,9 @@
 
 
 🔍 "SSE Plc":
-https://www.find-tender.service.gov.uk/Notice/049350-2025?origin=SearchResults&p=1
 https://www.find-tender.service.gov.uk/Notice/049780-2025?origin=SearchResults&p=1
 https://www.find-tender.service.gov.uk/Notice/049788-2025?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/050017-2025?origin=SearchResults&p=1
 
 🔍 "SSE SERVICES PLC":
 
@@ -50,4 +50,5 @@ https://www.find-tender.service.gov.uk/Notice/049779-2025?origin=SearchResults&p
 
 
 🔍 "ANGLIAN WATER SERVICES LIMITED":
-
+https://www.find-tender.service.gov.uk/Notice/050164-2025?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/050266-2025?origin=SearchResults&p=1
