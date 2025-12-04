@@ -21,13 +21,13 @@
 
 
 🔍 "SEVERN TRENT WATER LIMITED":
-https://www.find-tender.service.gov.uk/Notice/078366-2025?origin=SearchResults&p=1
+
 
 🔍 "NORTHUMBRIAN WATER GROUP LIMITED":
 
 
 🔍 "Portsmouth Water Limited":
-
+https://www.find-tender.service.gov.uk/Notice/079466-2025?origin=SearchResults&p=1
 
 🔍 "AFFINITY WATER LIMITED":
 
@@ -36,7 +36,7 @@ https://www.find-tender.service.gov.uk/Notice/078366-2025?origin=SearchResults&p
 
 
 🔍 "UK POWER NETWORKS (OPERATIONS) LIMITED":
-
+https://www.find-tender.service.gov.uk/Notice/079457-2025?origin=SearchResults&p=1
 
 🔍 "CENTRICA PLC":
 
@@ -45,9 +45,11 @@ https://www.find-tender.service.gov.uk/Notice/078366-2025?origin=SearchResults&p
 
 
 🔍 "UNITED UTILITIES WATER LIMITED":
-https://www.find-tender.service.gov.uk/Notice/078893-2025?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/079429-2025?origin=SearchResults&p=1
 https://www.find-tender.service.gov.uk/Notice/079047-2025?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/078893-2025?origin=SearchResults&p=1
 https://www.find-tender.service.gov.uk/Notice/079023-2025?origin=SearchResults&p=1
 
 🔍 "ANGLIAN WATER SERVICES LIMITED":
-https://www.find-tender.service.gov.uk/Notice/078497-2025?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/079182-2025?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/079196-2025?origin=SearchResults&p=1
