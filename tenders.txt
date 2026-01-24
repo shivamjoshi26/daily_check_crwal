@@ -21,7 +21,7 @@ https://www.find-tender.service.gov.uk/Notice/005609-2026?origin=SearchResults&p
 
 
 🔍 "SEVERN TRENT WATER LIMITED":
-https://www.find-tender.service.gov.uk/Notice/005227-2026?origin=SearchResults&p=1
+
 
 🔍 "NORTHUMBRIAN WATER GROUP LIMITED":
 
@@ -36,7 +36,7 @@ https://www.find-tender.service.gov.uk/Notice/005227-2026?origin=SearchResults&p
 
 
 🔍 "UK POWER NETWORKS (OPERATIONS) LIMITED":
-
+https://www.find-tender.service.gov.uk/Notice/006069-2026?origin=SearchResults&p=1
 
 🔍 "CENTRICA PLC":
 
