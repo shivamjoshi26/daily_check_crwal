@@ -15,14 +15,13 @@ https://www.find-tender.service.gov.uk/Notice/011131-2026?origin=SearchResults&p
 
 
 🔍 "SSE Plc":
-https://www.find-tender.service.gov.uk/Notice/010561-2026?origin=SearchResults&p=1
 https://www.find-tender.service.gov.uk/Notice/010768-2026?origin=SearchResults&p=1
 
 🔍 "SSE SERVICES PLC":
 
 
 🔍 "SEVERN TRENT WATER LIMITED":
-https://www.find-tender.service.gov.uk/Notice/010742-2026?origin=SearchResults&p=1
+
 
 🔍 "NORTHUMBRIAN WATER GROUP LIMITED":
 
@@ -50,4 +49,4 @@ https://www.find-tender.service.gov.uk/Notice/011185-2026?origin=SearchResults&p
 https://www.find-tender.service.gov.uk/Notice/010950-2026?origin=SearchResults&p=1
 
 🔍 "ANGLIAN WATER SERVICES LIMITED":
-https://www.find-tender.service.gov.uk/Notice/010684-2026?origin=SearchResults&p=1
+
