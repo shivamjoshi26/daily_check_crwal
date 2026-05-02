@@ -1,6 +1,6 @@
 
 🔍 "THAMES WATER UTILITIES LIMITED":
-https://www.find-tender.service.gov.uk/Notice/039042-2026?origin=SearchResults&p=1
+
 
 🔍 "SOUTHERN WATER UTILITIES LIMITED":
 
@@ -21,7 +21,7 @@ https://www.find-tender.service.gov.uk/Notice/039042-2026?origin=SearchResults&p
 
 
 🔍 "SEVERN TRENT WATER LIMITED":
-https://www.find-tender.service.gov.uk/Notice/040000-2026?origin=SearchResults&p=1
+
 
 🔍 "NORTHUMBRIAN WATER GROUP LIMITED":
 
@@ -45,8 +45,7 @@ https://www.find-tender.service.gov.uk/Notice/040000-2026?origin=SearchResults&p
 
 
 🔍 "UNITED UTILITIES WATER LIMITED":
-https://www.find-tender.service.gov.uk/Notice/039113-2026?origin=SearchResults&p=1
-https://www.find-tender.service.gov.uk/Notice/039145-2026?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/040569-2026?origin=SearchResults&p=1
 
 🔍 "ANGLIAN WATER SERVICES LIMITED":
 
