@@ -15,7 +15,7 @@
 
 
 🔍 "SSE Plc":
-https://www.find-tender.service.gov.uk/Notice/041118-2026?origin=SearchResults&p=1
+
 
 🔍 "SSE SERVICES PLC":
 
@@ -36,7 +36,7 @@ https://www.find-tender.service.gov.uk/Notice/041118-2026?origin=SearchResults&p
 
 
 🔍 "UK POWER NETWORKS (OPERATIONS) LIMITED":
-https://www.find-tender.service.gov.uk/Notice/040864-2026?origin=SearchResults&p=1
+
 
 🔍 "CENTRICA PLC":
 
@@ -45,7 +45,7 @@ https://www.find-tender.service.gov.uk/Notice/040864-2026?origin=SearchResults&p
 
 
 🔍 "UNITED UTILITIES WATER LIMITED":
-
+https://www.find-tender.service.gov.uk/Notice/041557-2026?origin=SearchResults&p=1
 
 🔍 "ANGLIAN WATER SERVICES LIMITED":
 
