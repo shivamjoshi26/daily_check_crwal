@@ -1,7 +1,5 @@
 
 🔍 "THAMES WATER UTILITIES LIMITED":
-https://www.find-tender.service.gov.uk/Notice/078540-2026?origin=SearchResults&p=1
-https://www.find-tender.service.gov.uk/Notice/078435-2026?origin=SearchResults&p=1
 https://www.find-tender.service.gov.uk/Notice/079164-2026?origin=SearchResults&p=1
 
 🔍 "SOUTHERN WATER UTILITIES LIMITED":
@@ -17,14 +15,15 @@ https://www.find-tender.service.gov.uk/Notice/079164-2026?origin=SearchResults&p
 https://www.find-tender.service.gov.uk/Notice/079164-2026?origin=SearchResults&p=1
 
 🔍 "SSE Plc":
-
+https://www.find-tender.service.gov.uk/Notice/079164-2026?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/079634-2026?origin=SearchResults&p=1
 
 🔍 "SSE SERVICES PLC":
-
+https://www.find-tender.service.gov.uk/Notice/079164-2026?origin=SearchResults&p=1
 
 🔍 "SEVERN TRENT WATER LIMITED":
-https://www.find-tender.service.gov.uk/Notice/078864-2026?origin=SearchResults&p=1
 https://www.find-tender.service.gov.uk/Notice/079164-2026?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/078864-2026?origin=SearchResults&p=1
 
 🔍 "NORTHUMBRIAN WATER GROUP LIMITED":
 
@@ -39,8 +38,8 @@ https://www.find-tender.service.gov.uk/Notice/079164-2026?origin=SearchResults&p
 
 
 🔍 "UK POWER NETWORKS (OPERATIONS) LIMITED":
-https://www.find-tender.service.gov.uk/Notice/079109-2026?origin=SearchResults&p=1
 https://www.find-tender.service.gov.uk/Notice/079164-2026?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/079109-2026?origin=SearchResults&p=1
 
 🔍 "CENTRICA PLC":
 
@@ -53,4 +52,3 @@ https://www.find-tender.service.gov.uk/Notice/079164-2026?origin=SearchResults&p
 
 🔍 "ANGLIAN WATER SERVICES LIMITED":
 https://www.find-tender.service.gov.uk/Notice/079164-2026?origin=SearchResults&p=1
-https://www.find-tender.service.gov.uk/Notice/078594-2026?origin=SearchResults&p=1
