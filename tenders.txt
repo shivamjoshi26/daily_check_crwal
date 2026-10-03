@@ -18,7 +18,7 @@
 
 
 🔍 "SSE SERVICES PLC":
-https://www.find-tender.service.gov.uk/Notice/092886-2026?origin=SearchResults&p=1
+
 
 🔍 "SEVERN TRENT WATER LIMITED":
 
@@ -30,8 +30,9 @@ https://www.find-tender.service.gov.uk/Notice/092886-2026?origin=SearchResults&p
 
 
 🔍 "AFFINITY WATER LIMITED":
-https://www.find-tender.service.gov.uk/Notice/092941-2026?origin=SearchResults&p=1
 https://www.find-tender.service.gov.uk/Notice/092924-2026?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/093305-2026?origin=SearchResults&p=1
+https://www.find-tender.service.gov.uk/Notice/093301-2026?origin=SearchResults&p=1
 
 🔍 "Dwr Cymru Welsh Water":
 
@@ -47,7 +48,6 @@ https://www.find-tender.service.gov.uk/Notice/092924-2026?origin=SearchResults&p
 
 🔍 "UNITED UTILITIES WATER LIMITED":
 https://www.find-tender.service.gov.uk/Notice/092930-2026?origin=SearchResults&p=1
-https://www.find-tender.service.gov.uk/Notice/092425-2026?origin=SearchResults&p=1
 
 🔍 "ANGLIAN WATER SERVICES LIMITED":
 
